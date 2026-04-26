@@ -123,3 +123,17 @@
 - 流量追踪是精细运营的前提
 - SEM+SEO是搜索营销的核心
 - 程序化广告是数字营销的趋势
+
+---
+
+## 📚 相关流派
+
+| 流派 | 核心内容 | 对应章节 |
+|------|----------|----------|
+| [增长黑客派](../growth-schools/01-growth-hacking/) | A/B测试、数据驱动 | 实验方法 |
+| [内容增长](../growth-schools/04-content-growth/) | SEO、长尾流量 | 搜索营销 |
+| [付费广告增长](../growth-schools/08-performance-marketing/) | 程序化广告、效果优化 | 效果广告 |
+
+---
+
+[← 返回用户留存](./module-06-retention.md) | [继续增长之旅 →](../growth-schools/)

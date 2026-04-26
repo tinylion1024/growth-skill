@@ -52,3 +52,19 @@ LTV = 3×CAC：健康线
 - 用户增长核心关注「用户量」和「LTV」两个维度
 - 增长本质是持续以最小成本创造最大价值
 - 衡量体系需同时关注获客效率和用户价值
+
+---
+
+## 📚 相关流派
+
+学完基础后，可以深入学习具体增长流派：
+
+| 流派 | 核心玩法 | 学习路径 |
+|------|----------|----------|
+| [增长黑客派](../growth-schools/01-growth-hacking/) | A/B测试、漏斗优化、数据实验 | 获客方法论 |
+| [产品驱动增长](../growth-schools/02-product-led-growth/) | Freemium、Onboarding、自传播 | PLG框架 |
+| [商业模型](../growth-schools/11-business-models/) | LTV/CAC、指标驱动 | 变现体系 |
+
+---
+
+[← 返回知识库概览](../README.md) | [继续：增长战略 →](./module-02-strategy.md)

@@ -119,3 +119,17 @@ Attention（注意）→ Interest（兴趣）→ Desire（欲望）→ Action（
 - 每个阶段有明确的用户心理和运营动作
 - 实际应用中要确保各阶段衔接流畅
 - 结合A/B测试持续优化各环节
+
+---
+
+## 📚 相关理论
+
+| 理论流派 | 核心内容 | 对应章节 |
+|----------|----------|----------|
+| [增长黑客派](../growth-schools/01-growth-hacking/) | A/B测试、转化优化 | 测试优化 |
+| [产品驱动增长](../growth-schools/02-product-led-growth/) | Onboarding、激活 | 转化漏斗 |
+| [付费广告增长](../growth-schools/08-performance-marketing/) | 效果广告、ROI | 广告转化 |
+
+---
+
+[← 返回指南概览](../)

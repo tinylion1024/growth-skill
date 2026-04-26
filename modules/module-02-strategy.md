@@ -90,3 +90,17 @@
 - 北极星指标是增长的核心指引
 - 不同阶段有不同增长重点
 - 增长是持续迭代的过程
+
+---
+
+## 📚 相关流派
+
+| 流派 | 核心内容 | 对应章节 |
+|------|----------|----------|
+| [增长黑客派](../growth-schools/01-growth-hacking/) | A/B测试、增长实验 | 实验方法论 |
+| [增长飞轮](../growth-schools/10-flywheel-growth/) | 飞轮模型、复利增长 | 增长飞轮 |
+| [商业模型](../growth-schools/11-business-models/) | 北极星指标、指标体系 | 指标驱动 |
+
+---
+
+[← 返回增长概述](./module-01-overview.md) | [继续：精益增长 →](./module-03-lean-growth.md)

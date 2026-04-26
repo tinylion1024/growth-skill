@@ -200,4 +200,8 @@ Airbnb增长策略：
 
 ---
 
+## 📦 相关武器
+
+- [冷启动武器 1-10](../weapons/01-cold-start/)
+
 [← 返回增长流派体系](../index.md) | [继续：产品驱动增长 →](../02-product-led-growth/)

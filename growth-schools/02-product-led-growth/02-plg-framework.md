@@ -121,6 +121,14 @@ Referral → 推荐          Task Success → 任务成功率
 
 ---
 
+## 📦 相关武器
+
+- [武器 51-65: PLG](../weapons/05-plg/)
+- [武器 66-75: 留存](../weapons/06-retention/)
+- [武器 76-85: 变现](../weapons/07-monetization/)
+
+---
+
 ## 必读书单
 
 | 书名 | 作者 | 核心内容 |

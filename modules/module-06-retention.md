@@ -224,3 +224,18 @@
 3. **用户体验五度模型**：吸引度→完成度→满意度→忠诚度→推荐度
 4. **老用户留存**：增强动力（体验、激励、活跃）+ 增大阻力（习惯、迁移成本）
 5. **LTV提升**：复购率→客单价→推荐率的递进路径
+
+---
+
+## 📚 相关流派
+
+| 流派 | 核心内容 | 对应章节 |
+|------|----------|----------|
+| [产品驱动增长](../growth-schools/02-product-led-growth/) | Freemium、Onboarding | 激活体系 |
+| [游戏化增长](../growth-schools/09-gamification/) | 积分、等级、任务 | 激励系统 |
+| [社区增长](../growth-schools/05-community-growth/) | 用户社群、共创 | 社交留存 |
+| [商业模型](../growth-schools/11-business-models/) | LTV/CAC、留存率 | 生命周期 |
+
+---
+
+[← 返回获客策略](./module-05-acquisition.md) | [继续：数据与技术 →](./module-07-data-tech.md)

@@ -115,3 +115,17 @@ Attention（注意）→ Interest（兴趣）→ Desire（欲望）→ Action（
 - AIDA是推广转化的核心框架
 - 裂变是低成本获客的有效手段
 - 反作弊是可持续增长的前提
+
+---
+
+## 📚 相关流派
+
+| 流派 | 核心内容 | 对应章节 |
+|------|----------|----------|
+| [增长黑客派](../growth-schools/01-growth-hacking/) | A/B测试、漏斗优化 | 转化优化 |
+| [病毒传播增长](../growth-schools/07-viral-growth/) | 裂变分享、邀请机制 | 邀请裂变 |
+| [付费广告增长](../growth-schools/08-performance-marketing/) | Google/Facebook Ads | 效果广告 |
+
+---
+
+[← 返回市场洞察](./module-04-research.md) | [继续：用户留存 →](./module-06-retention.md)

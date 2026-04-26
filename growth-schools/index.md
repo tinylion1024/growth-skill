@@ -79,16 +79,21 @@ SaaS：产品驱动 > 增长飞轮 > 商业模型
 ## 📦 增长武器库
 
 每个流派对应 [weapons/](../weapons/) 中的具体玩法：
-- 冷启动 → 武器 1-10
-- 病毒裂变 → 武器 11-25
-- 内容增长 → 武器 26-40
-- 社区增长 → 武器 41-50
-- PLG → 武器 51-65
-- 留存 → 武器 66-75
-- 变现 → 武器 76-85
-- 付费广告 → 武器 86-95
-- 品牌 → 武器 96-103
-- B2B销售 → 武器 104-111
+
+| 流派 | 相关武器 |
+|------|----------|
+| [增长黑客派](./01-growth-hacking/) | [武器 1-10](../weapons/01-cold-start/)（冷启动）|
+| [产品驱动增长](./02-product-led-growth/) | [武器 51-65](../weapons/05-plg/)（PLG）、[武器 66-85](../weapons/06-retention/)（留存+变现）|
+| [网络效应增长](./03-network-effects/) | [武器 11-25](../weapons/02-viral-referral/)（病毒裂变）|
+| [内容增长](./04-content-growth/) | [武器 26-40](../weapons/03-content-growth/) |
+| [社区增长](./05-community-growth/) | [武器 41-50](../weapons/04-community/) |
+| [品牌驱动增长](./06-brand-growth/) | [武器 96-103](../weapons/09-brand/) |
+| [病毒传播增长](./07-viral-growth/) | [武器 11-25](../weapons/02-viral-referral/)（裂变）|
+| [付费广告增长](./08-performance-marketing/) | [武器 86-95](../weapons/08-paid-ads/) |
+| [游戏化增长](./09-gamification/) | [武器 68-75](../weapons/06-retention/)（奖励+成就）|
+| [增长飞轮](./10-flywheel-growth/) | 贯穿所有武器 |
+| [商业模型](./11-business-models/) | [武器 76-85](../weapons/07-monetization/)（变现）|
+| [B2B销售](./08-performance-marketing/) | [武器 104-111](../weapons/10-b2b-sales/) |
 
 ---
 

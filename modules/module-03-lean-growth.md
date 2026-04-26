@@ -190,3 +190,17 @@
 3. **北极星指标三种拆解方法**：场景/OKR/用户旅程，适用于不同场景
 4. **AARRR模型**：获取→激活→留存→变现→推荐，是增长分析的基础框架
 5. **科学实验验证假设**：A/B测试是验证增长假设的核心手段
+
+---
+
+## 📚 相关流派
+
+| 流派 | 核心内容 | 对应章节 |
+|------|----------|----------|
+| [增长黑客派](../growth-schools/01-growth-hacking/) | 精益创业、增长实验 | 科学实验方法 |
+| [产品驱动增长](../growth-schools/02-product-led-growth/) | Freemium、Onboarding | 激活体系 |
+| [商业模型](../growth-schools/11-business-models/) | 北极星指标、指标体系 | 指标驱动 |
+
+---
+
+[← 返回增长战略](./module-02-strategy.md) | [继续：市场洞察 →](./module-04-research.md)

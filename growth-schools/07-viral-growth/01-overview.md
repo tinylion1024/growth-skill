@@ -274,6 +274,18 @@ Dropbox病毒增长：
 
 ---
 
+## 📦 相关武器
+
+- [武器 11-25: 病毒裂变](../weapons/02-viral-referral/)
+
+## 📚 相关案例
+
+| 案例 | 核心玩法 | 对应章节 |
+|------|----------|----------|
+| [拼多多](../../cases/china/pinduoduo-group-buy.md) | 拼团裂变、微信生态 | 社交拼团裂变 |
+| [微信红包](../../cases/china/wechat-redpacket.md) | 红包邀请、春晚联动 | 红包裂变 |
+| [Dropbox](../../cases/overseas/dropbox.md) | 邀请裂变、空间奖励 | 邀请机制 |
+
 ## 必读书单
 
 | 书名 | 作者 | 核心内容 |
