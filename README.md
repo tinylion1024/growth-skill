@@ -74,9 +74,9 @@ growth-skill/
 
 ---
 
-## 打法索引
+## 玩法索引
 
-按增长打法分类，快速找到相关案例：
+按增长玩法分类，快速找到相关案例：
 
 ### 裂变增长
 | 案例 | 标签 | 说明 |
@@ -137,6 +137,13 @@ growth-skill/
 |------|------|------|
 | [蚂蚁森林](./cases/china/ant-forest.md) | 游戏化、公益、环保 | 低碳行为游戏化 |
 | [Duolingo](./cases/vertical/duolingo.md) | 游戏化、学习、AI | 游戏化学英语 |
+
+### 看视频赚金币
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [抖音极速版](./cases/china/douyin-jisu-ban.md) | 金币激励、下沉市场 | 看视频赚金币 |
+| [快手极速版](./cases/china/kuaishou-jisu-ban.md) | 现金激励、下沉市场 | 看视频赚现金 |
+| [趣头条](./cases/china/qutoutiao.md) | 金币激励、师徒制 | 看新闻赚金币 |
 
 ---
 
