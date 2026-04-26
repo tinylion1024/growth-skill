@@ -6,6 +6,7 @@
 |------|------|
 | 公司/产品 | Airbnb |
 | 行业 | 共享住宿 |
+| 标签 | 住宿, 平台, 双边市场, 信任机制, 体验
 | 阶段 | 成熟期 |
 | 成立时间 | 2008年 |
 | 创始人 | Brian Chesky、Joe Gebbia、Nathan Blecharczyk |

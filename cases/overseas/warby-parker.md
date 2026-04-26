@@ -6,6 +6,7 @@
 |------|------|
 | 公司/产品 | Warby Parker |
 | 行业 | 眼镜消费品 |
+| 标签 | 眼镜, DTC, Home Try-On, 订阅, 透明定价
 | 阶段 | 成熟期 |
 | 成立时间 | 2010年 |
 | 创始人 | Neil Blumenthal、Dave Gilboa、Andrew Hunt、Jeffrey Raider |

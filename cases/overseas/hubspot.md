@@ -6,6 +6,7 @@
 |------|------|
 | 公司/产品 | HubSpot |
 | 行业 | SaaS/营销自动化 |
+| 标签 | SaaS, 营销自动化, 入站营销, CRM, 内容营销
 | 阶段 | 成熟期 |
 | 成立时间 | 2006年 |
 | 创始人 | Brian Halligan, Dharmesh Shah |
