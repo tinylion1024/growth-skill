@@ -74,6 +74,72 @@ growth-skill/
 
 ---
 
+## 打法索引
+
+按增长打法分类，快速找到相关案例：
+
+### 裂变增长
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [拼多多](./cases/china/pinduoduo-group-buy.md) | 拼团、微信生态 | 社交拼团裂变 |
+| [微信红包](./cases/china/wechat-redpacket.md) | 红包、绑定银行卡 | 春晚红包裂变 |
+| [Dropbox](./cases/overseas/dropbox.md) | 邀请裂变、免费获客 | 邀请双方得奖励 |
+| [Dollar Shave Club](./cases/overseas/dollar-shave-club.md) | 病毒视频、订阅 | 病毒视频冷启动 |
+
+### 内容营销
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [小红书](./cases/china/xiaohongshu.md) | 种草、UGC、社区 | KOC种草社区 |
+| [淘宝直播](./cases/china/taobao-live.md) | 直播、KOL、带货 | 电商直播 |
+| [HubSpot](./cases/overseas/hubspot.md) | 入站营销、内容 | 博客内容获客 |
+| [Glossier](./cases/overseas/glossier.md) | KOC、社交电商 | 用户生成内容 |
+
+### 会员体系
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [京东会员](./cases/china/jd-member-ops.md) | 会员、复购、VIP | 付费会员体系 |
+| [阿里88会员](./cases/china/vipshop.md) | 生态会员、跨平台 | 88VIP生态 |
+| [VIPKID](./cases/vertical/vipkid.md) | 在线教育、会员 | 续费会员运营 |
+| [JD Finance](./cases/china/jd-finance.md) | 白条会员、金融 | 金融会员体系 |
+
+### 算法推荐
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [抖音算法](./cases/china/douyin-algorithm.md) | 推荐算法、内容分发 | 个性化推荐 |
+| [抖音电商](./cases/china/douyin-ecommerce.md) | 兴趣电商、算法 | 货找人 |
+| [TikTok](./cases/vertical/tiktok.md) | 全球、算法推荐 | 海外抖音 |
+
+### 双边市场
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [滴滴](./cases/china/didi.md) | 出行、补贴 | 司机+乘客双侧 |
+| [Uber](./cases/overseas/uber.md) | 动态定价、司机运营 | 全球出行 |
+| [Airbnb](./cases/overseas/airbnb.md) | 信任机制、体验 | 房东+房客 |
+| [美团](./cases/china/meituan.md) | 本地生活、外卖 | 商家+用户 |
+
+### DTC品牌
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [Allbirds](./cases/overseas/allbirds.md) | 可持续、口碑 | 环保鞋品牌 |
+| [Warby Parker](./cases/overseas/warby-parker.md) | Home Try-On、透明定价 | 眼镜直销 |
+| [SHEIN](./cases/vertical/shein.md) | 快时尚、KOC | 供应链+DTC |
+| [Glossier](./cases/overseas/glossier.md) | 美妆、社交 | 社区驱动 |
+
+### 订阅模式
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [Dollar Shave Club](./cases/overseas/dollar-shave-club.md) | 订阅、剃须刀 | 每月配送 |
+| [Notion](./cases/overseas/notion.md) | 模板、免费获客 | Freemium |
+| [Calendly](./cases/overseas/calendly.md) | 工具、免费 | 基础免费+付费 |
+
+### 游戏化
+| 案例 | 标签 | 说明 |
+|------|------|------|
+| [蚂蚁森林](./cases/china/ant-forest.md) | 游戏化、公益、环保 | 低碳行为游戏化 |
+| [Duolingo](./cases/vertical/duolingo.md) | 游戏化、学习、AI | 游戏化学英语 |
+
+---
+
 ## 案例索引
 
 ### 中国案例（27个）
