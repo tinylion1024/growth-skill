@@ -1,2 +1,5 @@
 .DS_Store
 .DS_Store
+
+# Notion sync cache
+.notion_cache.json
