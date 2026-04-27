@@ -9,9 +9,9 @@
 | 分类 | 数量 |
 |------|------|
 | 中国案例 | 27 |
-| 海外案例 | 15 |
+| 海外案例 | 18 |
 | 垂直行业 | 10 |
-| **总计** | **52** |
+| **总计** | **55** |
 
 ---
 
@@ -103,6 +103,11 @@
 - [Allbirds](./overseas/allbirds.md) - 可持续、口碑、DTC
 - [Warby Parker](./overseas/warby-parker.md) - Home Try-On、透明定价
 - [Calendly](./overseas/calendly.md) - 日程预约、免费获客
+
+**AI产品**
+- [Midjourney](./overseas/midjourney.md) - Discord社区、口碑传播、图像生成
+- [Character.AI](./overseas/character-ai.md) - UGC社区、情感陪伴、对话机器人
+- [Perplexity](./overseas/perplexity.md) - 答案引擎、社交传播、AI搜索
 
 ---
 
