@@ -21,7 +21,7 @@ growth-skill/
 │   ├── overseas/         # 海外案例（15个）
 │   └── vertical/         # 垂直行业（10个）
 │
-├── growth-schools/       # 增长流派体系（11大流派）
+├── growth-schools/       # 增长流派体系（12大流派）
 │   ├── 01-growth-hacking/      # 增长黑客派
 │   ├── 02-product-led-growth/   # 产品驱动增长
 │   ├── 03-network-effects/      # 网络效应增长
@@ -32,7 +32,8 @@ growth-skill/
 │   ├── 08-performance-marketing/ # 付费广告增长
 │   ├── 09-gamification/           # 游戏化增长
 │   ├── 10-flywheel-growth/        # 增长飞轮
-│   └── 11-business-models/       # 商业模型
+│   ├── 11-business-models/       # 商业模型
+│   └── 12-growthhackers/         # GrowthHackers体系（新增）
 │
 ├── guides/              # 操作指南（5篇）
 │   ├── aida-model.md
@@ -42,7 +43,7 @@ growth-skill/
 │   └── user-profile.md
 │
 ├── weapons/              # 增长武器库（100+玩法）
-│
+
 └── README.md
 ```
 

@@ -28,7 +28,8 @@
 | 08 | [付费广告增长](./08-performance-marketing/) | Google/Facebook Ads、ROI投放 | - |
 | 09 | [游戏化增长](./09-gamification/) | 积分、任务、等级、打卡 | - |
 | 10 | [增长飞轮](./10-flywheel-growth/) | 飞轮模型、复利增长 | [Amazon飞轮案例](./10-flywheel-growth/02-business-models.md) |
-| 11 | [商业模型](./11-business-models/) | LTV/CAC、指标驱动 | SaaS增长体系 |
+|| 11 | [商业模型](./11-business-models/) | LTV/CAC、指标驱动 | SaaS增长体系 |
+|| 12 | [GrowthHackers](./12-growthhackers/) | GrowthOS、LLM排名、AI增长 | Sean Ellis亲授 |
 
 ---
 
