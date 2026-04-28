@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/tinylion1024/growth-skill)](https://github.com/tinylion1024/growth-skill/stargazers)
 [![License](https://img.shields.io/github/license/tinylion1024/growth-skill)](https://github.com/tinylion1024/growth-skill/blob/main/LICENSE)
 [![Cases](https://img.shields.io/badge/Cases-75-blue)](./cases/)
-[![Growth Schools](https://img.shields.io/badge/Growth%20Schools-12-green)](./growth-schools/)
+| [Growth Schools](https://img.shields.io/badge/Growth%20Schools-12-green)](./weapons/11-referencs/) |
 [![Weapons](https://img.shields.io/badge/Weapons-111-orange)](./weapons/)
 
 ---
@@ -38,14 +38,14 @@ Growth-Skill 是一个专注**用户增长**领域的开源知识库，涵盖：
 
 ### 📚 按流派
 
-| 流派 | 核心玩法 |
-|------|----------|
-| [增长黑客派](./growth-schools/01-growth-hacking/) | A/B测试、数据实验、MVP验证 |
-| [产品驱动增长](./growth-schools/02-product-led-growth/) | Freemium、Onboarding、自传播 |
-| [网络效应](./growth-schools/03-network-effects/) | 双边市场、病毒传播 |
-| [内容增长](./growth-schools/04-content-growth/) | SEO、入站营销、UGC |
-| [社区增长](./growth-schools/05-community-growth/) | 社区运营、超级用户 |
-| [品牌驱动](./growth-schools/06-brand-growth/) | 品牌故事、价值观营销 |
+|| 流派 | 核心玩法 | 新版位置 |
+|------|----------|---------|
+| [增长黑客派](./weapons/11-referencs/01-growth-hacking.md) | A/B测试、数据实验、MVP验证 | 冷启动武器 |
+| [产品驱动增长](./weapons/11-referencs/02-plg.md) | Freemium、Onboarding、自传播 | PLG武器 |
+| [网络效应](./weapons/11-referencs/03-network-effects.md) | 双边市场、病毒传播 | 病毒裂变武器 |
+| [内容增长](./weapons/11-referencs/04-content-growth.md) | SEO、入站营销、UGC | 内容增长武器 |
+| [社区增长](./weapons/11-referencs/05-community-growth.md) | 社区运营、超级用户 | 社区增长武器 |
+| [品牌驱动](./weapons/11-referencs/06-brand-growth.md) | 品牌故事、价值观营销 | 品牌增长武器 |
 
 ### 🛠️ 按武器
 
@@ -81,19 +81,7 @@ growth-skill/
 │       ├── tiktok.md
 │       └── ...
 │
-├── growth-schools/            # 12大增长流派
-│   ├── 01-growth-hacking/      # 增长黑客派
-│   ├── 02-product-led-growth/   # 产品驱动增长
-│   ├── 03-network-effects/      # 网络效应增长
-│   ├── 04-content-growth/        # 内容增长
-│   ├── 05-community-growth/      # 社区增长
-│   ├── 06-brand-growth/          # 品牌驱动增长
-│   ├── 07-viral-growth/          # 病毒传播增长
-│   ├── 08-performance-marketing/ # 付费广告增长
-│   ├── 09-gamification/           # 游戏化增长
-│   ├── 10-flywheel-growth/        # 增长飞轮
-│   ├── 11-business-models/       # 商业模型
-│   └── 12-growthhackers/         # GrowthHackers体系
+│   ├── 11-referencs/              # 12大流派参考文档（已迁移整合）
 │
 ├── weapons/                    # 增长武器库（111种玩法）
 │   ├── 01-cold-start/          # 冷启动
@@ -187,7 +175,7 @@ growth-skill/
      ↓
 2️⃣ 方法论 → 学习 guides/ 中的核心模型（AIDA、增长飞轮、北极星指标）
      ↓
-3️⃣ 流派 → 浏览 growth-schools/ 选择适合自己的增长方向
+3️⃣ 流派 → 在 [weapons/11-referencs/](./weapons/11-referencs/) 选择适合自己的增长方向
      ↓
 4️⃣ 武器 → 在 weapons/ 中寻找可落地的具体玩法
      ↓

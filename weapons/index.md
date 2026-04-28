@@ -40,6 +40,27 @@
 
 ---
 
+## 🔀 按流派浏览
+
+每个流派是观察增长的"不同视角"，武器库是落地执行的"具体打法"。流派告诉你"为什么"，武器告诉你"怎么做"。
+
+| 流派 | 核心问题 | 推荐武器 |
+|------|---------|---------|
+| [增长黑客派](./11-referencs/01-growth-hacking.md) | 如何用数据驱动决策？ | #1-#10 |
+| [PLG](./11-referencs/02-plg.md) | 如何让产品自己会说话？ | #51-#65 |
+| [病毒传播](./11-referencs/07-viral-growth.md) | 如何让用户主动传播？ | #11-#25 |
+| [内容增长](./11-referencs/04-content-growth.md) | 如何用内容持续获客？ | #26-#40 |
+| [社区增长](./11-referencs/05-community-growth.md) | 如何运营超级用户？ | #41-#50 |
+| [品牌驱动](./11-referencs/06-brand-growth.md) | 如何建立品牌心智？ | #96-#103 |
+| [网络效应](./11-referencs/03-network-effects.md) | 如何利用双边市场？ | #11-#25 |
+| [付费广告](./11-referencs/08-performance-marketing.md) | 如何精准投放？ | #86-#95 |
+| [游戏化](./11-referencs/09-gamification.md) | 如何让用户上瘾？ | #68-#75 |
+| [增长飞轮](./11-referencs/10-flywheel.md) | 如何建立复利增长？ | 贯穿所有 |
+| [商业模型](./11-referencs/11-business-models.md) | 如何确保盈利？ | #76-#85 |
+| [GrowthHackers](./11-referencs/12-growthhackers.md) | 如何系统化增长？ | 贯穿所有 |
+
+---
+
 ## 🎯 使用指南
 
 ### 按阶段选择
@@ -240,7 +261,7 @@ SaaS：
 
 ## 🔗 关联资源
 
-- [增长流派体系](../growth-schools/) - 流派理论与实战
+- [增长流派体系](./11-referencs/) - 12大流派理论参考
 - [增长案例库](../cases/) - 实战案例
 
 ---
