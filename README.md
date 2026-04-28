@@ -139,8 +139,9 @@ growth-skill/
 | [小红书](./cases/china/xiaohongshu.md) | 种草、KOC、社区 | KOC种草社区模式 |
 | [微信红包](./cases/china/wechat-redpacket.md) | 红包、绑定银行卡 | 春晚红包裂变 |
 | [蚂蚁森林](./cases/china/ant-forest.md) | 游戏化、公益 | 低碳行为游戏化 |
-| [B站](./cases/china/bilibili.md) | Z世代、社区 | 弹幕文化与社区粘性 |
-| [快手白拿](./cases/china/kuaishou-baina.md) | 现金膨胀, 邀请裂变, 信息差 | 老用户召回+阶梯奖励 |
+| [趣头条](./cases/china/qutoutiao.md) | 信息流、奖励、师徒体系 | 师徒裂变+积分体系 |
+| [桌面Widget增长](./cases/china/widget-growth.md) | Widget, 社交货币, 高频曝光 | TikTok种草+锁屏曝光双轮驱动 |
+| [白拿](./cases/china/white-get-gift.md) | 现金膨胀, 邀请裂变, 信息差 | 老用户召回+阶梯奖励 |
 
 ### 海外案例
 
