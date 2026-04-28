@@ -140,6 +140,7 @@ growth-skill/
 | [微信红包](./cases/china/wechat-redpacket.md) | 红包、绑定银行卡 | 春晚红包裂变 |
 | [蚂蚁森林](./cases/china/ant-forest.md) | 游戏化、公益 | 低碳行为游戏化 |
 | [B站](./cases/china/bilibili.md) | Z世代、社区 | 弹幕文化与社区粘性 |
+| [快手白拿](./cases/china/kuaishou-baina.md) | 现金膨胀, 邀请裂变, 信息差 | 老用户召回+阶梯奖励 |
 
 ### 海外案例
 
