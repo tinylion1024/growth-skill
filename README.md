@@ -1,6 +1,6 @@
 # Growth-Skill 用户增长知识库
 
-> 75个经典增长案例 | 12大增长流派 | 111种实战玩法 | 系统方法论
+|> 77个经典增长案例 | 12大增长流派 | 111种实战玩法 | 系统方法论
 
 [![GitHub stars](https://img.shields.io/github/stars/tinylion1024/growth-skill)](https://github.com/tinylion1024/growth-skill/stargazers)
 [![License](https://img.shields.io/github/license/tinylion1024/growth-skill)](https://github.com/tinylion1024/growth-skill/blob/main/LICENSE)
@@ -14,7 +14,7 @@
 
 Growth-Skill 是一个专注**用户增长**领域的开源知识库，涵盖：
 
-- **75个实战案例** — 涵盖中国、海外、垂直行业三大板块
+- **77个实战案例** — 涵盖中国、海外、垂直行业三大板块
 - **12大增长流派** — 从增长黑客到品牌驱动，系统梳理增长方法论
 - **111种增长玩法** — 冷启动、病毒裂变、内容增长、PLG 等可落地战术
 - **7大核心模块** — 战略、数据、技术全方位体系
@@ -128,8 +128,10 @@ growth-skill/
 | [微信红包](./cases/china/wechat-redpacket.md) | 红包、绑定银行卡 | 春晚红包裂变 |
 | [蚂蚁森林](./cases/china/ant-forest.md) | 游戏化、公益 | 低碳行为游戏化 |
 | [趣头条](./cases/china/qutoutiao.md) | 信息流、奖励、师徒体系 | 师徒裂变+积分体系 |
-| [桌面Widget增长](./cases/china/widget-growth.md) | Widget, 社交货币, 高频曝光 | TikTok种草+锁屏曝光双轮驱动 |
-| [白拿](./cases/china/white-get-gift.md) | 现金膨胀, 邀请裂变, 信息差 | 老用户召回+阶梯奖励 |
+| [快手极速版](./cases/china/kuaishou-jisu-ban.md) | 短视频、游戏化、现金激励 | 看视频赚现金+邀请裂变 |
+| [银发人群增长](./cases/china/silver-hair-growth.md) | 银发、金币激励、任务墙 | 看视频赚钱+师徒裂变 |
+| [桌面Widget增长](./cases/china/widget-growth.md) | Widget、社交货币、高频曝光 | TikTok种草+锁屏曝光双轮驱动 |
+| [白拿](./cases/china/white-get-gift.md) | 现金膨胀、邀请裂变、信息差 | 老用户召回+阶梯奖励 |
 
 ### 海外案例
 

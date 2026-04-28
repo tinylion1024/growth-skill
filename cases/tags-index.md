@@ -31,8 +31,11 @@ Glossier、Allbirds、Dollar Shave Club、Warby Parker
 ### 出行交通（4个海外）
 Airbnb、Uber、DoorDash
 
-### 内容娱乐（3个中国）
-抖音极速版、快手极速版、趣头条
+### 内容娱乐（4个中国）
+抖音极速版、快手极速版、趣头条、银发人群增长
+
+### 银发经济（新增）
+银发人群增长、海外银发奖励平台（Swagbucks、InboxDollars）
 
 ### 教育培训（4个垂直）
 Duolingo、VIPKID、猿辅导、Coursera
@@ -48,7 +51,7 @@ SHEIN、TikTok、字节跳动、腾讯游戏、茄子快传、DTC品牌
 |------|--------|----------|
 | 社交裂变 | 5+ | 拼多多、微信红包、Dropbox |
 | 算法推荐 | 4+ | 抖音算法、抖音电商、TikTok |
-| 游戏化 | 5+ | 蚂蚁森林、抖音极速版、趣头条、Duolingo |
+| 游戏化 | 5+ | 蚂蚁森林、抖音极速版、趣头条、Duolingo、银发人群增长 |
 | 内容营销 | 5+ | 小红书、淘宝直播、HubSpot |
 | 会员体系 | 3+ | 京东会员、阿里88VIP |
 | PLG产品驱动 | 7+ | Notion、Dropbox、Zoom |
